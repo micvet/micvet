@@ -18,7 +18,7 @@
 
 <i>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micvet&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micvet)](https://github.com/anuraghazra/github-readme-stats)</i>
-
+<br></br>
 ## **How to contact me:**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="position: bottom" width="50px" />       
