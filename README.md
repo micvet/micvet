@@ -1,3 +1,2 @@
-<div id="header" align="center">
-  <img src="https://www.canva.com/design/DAFQLD5moqI/LHl2nZx73hSsvWD4OaczYA/edit?utm_content=DAFQLD5moqI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micvet&show_icons=true&theme=radical)
