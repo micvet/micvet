@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5ff28eac15120a7c1d21b570/1609888404383-GWIQJFMQW07TGNW7PLQ9/Alex_800x600.gif?format=750w" width="100"/>
+  <img src="https://www.annsniechowski.com/home/animation-julie" width="100"/>
 </div>
