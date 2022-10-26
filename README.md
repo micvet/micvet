@@ -4,7 +4,7 @@
 
 💼 QA intern at IBM 
 
-❤️ An enthusiastic in data. Love to work with Python and Power BI. Now I'm learning new tools! 
+❤️ A data enthusiastic! I love working with Python and Power BI. Now I'm learning to work with data on cloud plataforms! 
 
 :bulb: About my knowledge:
   
