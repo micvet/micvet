@@ -4,7 +4,7 @@
 
 💼 QA intern at IBM 
 
-❤️ I love working with Python and Power BI. Now I'm learning to work with data on cloud plataforms! 
+❤️ I love working with Python and Power BI. Now I'm learning how to work with data on cloud plataforms! 
 
 :bulb: About my knowledge:
   
