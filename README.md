@@ -4,7 +4,7 @@
 
 💼 QA intern at IBM 
 
-❤️ I love working with data. Now I'm learning how to work with data on cloud plataforms! 
+❤️ I love working with data and Software QA!
 
 :bulb: About my knowledge:
   
