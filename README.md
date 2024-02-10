@@ -2,9 +2,7 @@
 
 ## **About me**
 
-💼 QA intern at IBM 
-
-❤️ I love working with data and Software QA!
+❤️ I love working with data!
 
 :bulb: About my knowledge:
   
