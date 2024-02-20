@@ -13,7 +13,7 @@
 <img src="https://github.com/micvet/micvet/assets/86981990/5217aa14-6601-4508-9727-a78d4e4acb30" width="40px" /> &nbsp; &nbsp; &nbsp;  <br>
 <img src="https://github.com/micvet/micvet/assets/86981990/7ae73109-1a6f-444d-b31d-fadf6e241398" width="80px" /> 
 <img src="https://github.com/micvet/micvet/assets/86981990/8c090fd0-a3c8-4709-b193-c9c2bdce5079" width="80px" /> &nbsp; &nbsp;
-<img src="https://github.com/micvet/micvet/assets/86981990/1a8df58b-af48-47f3-b014-b1069f27dc65" width="80px" /> &nbsp; &nbsp; &nbsp;
+
 
 
 
