@@ -1,9 +1,5 @@
 ![image](https://user-images.githubusercontent.com/86981990/198135597-1a4a3a25-13c9-48b8-beef-f9d824331a04.png)
 
-## **About me**
-
-❤️ I love working with data!
-
 :bulb: About my knowledge:
   
 <i>
