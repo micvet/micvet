@@ -2,7 +2,7 @@
 
 ## :bulb: To check my projects and badges:
 💻 [My GitHub account](https://github.com/micvet?tab=repositories)<br>
-🥇 [My Credly account](https://www.credly.com/users/michelle-cristine-dos-santos)
+🥇 [My Credly account](https://www.credly.com/users/michelle-cristine-dos-santos)<br>
 
 ## :bulb: About me:
 
