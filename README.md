@@ -10,7 +10,7 @@ During this time, I worked as an intern at IBM through the Associates program, w
 
 In addition to my academic knowledge, I'm always studing and leaning new features. I have certifications in  **Databricks Fundamentals, AZ-900, DP-900, Scrum Foundation Professional Certification**  and I am currently seeking new certifications. I have a good knowledge of Python, SQL, Bash scripting, Power BI, and SQL Server. I am familiar with Azure Plataform (ADF, Azure Databricks, Azure Test Plans), AWS platforms (S3, EC2, RedShift, Kinesis)  and Linux operating systems. I also work with tools such as Selenium, SoapUi, and Postman. Currently, I am deepening my knowledge in tools like Docker, Azure Data Factory, Databricks, etc.
 
-I'm a native Portugueses speaker and I have proficiency in English (C1), intermediate level in Spanish, and I am beginning to study Italian.
+I'm a **native Portugueses speaker** and I have proficiency in **English (C1)**, intermediate level in **Spanish (B2)**, and I am beginning my studies in **Italian**.
 
 ## :bulb: About my knowledge:
   
