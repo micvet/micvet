@@ -1,4 +1,8 @@
-![image](https://user-images.githubusercontent.com/86981990/198135597-1a4a3a25-13c9-48b8-beef-f9d824331a04.png)
+<img src="https://user-images.githubusercontent.com/86981990/198135597-1a4a3a25-13c9-48b8-beef-f9d824331a04.png" width="1000px" />
+
+## :bulb: To check out my projects and badges:
+💻 [My GitHub account](https://github.com/micvet?tab=repositories)<br>
+🥇 [My Credly account](https://www.credly.com/users/michelle-cristine-dos-santos)
 
 ## :bulb: About me:
 
@@ -35,9 +39,12 @@ I'm a **native Portugueses speaker** and I have proficiency in **English (C1)**,
 ## **How to contact me:**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="position: bottom" width="50px" />       
-https://www.linkedin.com/in/michelle-c-santos/
+🔗 https://www.linkedin.com/in/michelle-c-santos/<br>
+📫 E-mail: michellesantosvet@gmail.com
 
 <br></br>
-![image](https://user-images.githubusercontent.com/86981990/198138936-4e39b89b-f987-4c33-999b-64b6184a5a59.png)
+
+<img src="https://user-images.githubusercontent.com/86981990/198138936-4e39b89b-f987-4c33-999b-64b6184a5a59.png" width="1000px" />
+
 
 
