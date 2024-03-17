@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/86981990/198135597-1a4a3a25-13c9-48b8-beef-f9d824331a04.png" width="900px" />
 
 ## :bulb: To check my projects and badges:
-💻 [My GitHub account](https://github.com/micvet?tab=repositories)<br>
+💻 [My projects on GitHub](https://github.com/micvet?tab=repositories)<br>
 🥇 [My Credly account](https://www.credly.com/users/michelle-cristine-dos-santos)<br>
 
 ## :bulb: About me:
