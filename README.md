@@ -36,7 +36,7 @@ I'm a **native Portugueses speaker** and I have proficiency in **English (C1)**,
 </br><i>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micvet&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micvet)](https://github.com/anuraghazra/github-readme-stats)</i>
 <br></br>
-## **How to contact me:**
+## :bulb: How to contact me:
 
 🔗 https://www.linkedin.com/in/michelle-c-santos/<br>
 📫 E-mail: michellesantosvet@gmail.com
