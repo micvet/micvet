@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/86981990/198135597-1a4a3a25-13c9-48b8-beef-f9d824331a04.png" width="1000px" />
+<img src="https://user-images.githubusercontent.com/86981990/198135597-1a4a3a25-13c9-48b8-beef-f9d824331a04.png" width="900px" />
 
 ## :bulb: To check out my projects and badges:
 💻 [My GitHub account](https://github.com/micvet?tab=repositories)<br>
@@ -44,7 +44,7 @@ I'm a **native Portugueses speaker** and I have proficiency in **English (C1)**,
 
 <br></br>
 
-<img src="https://user-images.githubusercontent.com/86981990/198138936-4e39b89b-f987-4c33-999b-64b6184a5a59.png" width="1000px" />
+<img src="https://user-images.githubusercontent.com/86981990/198138936-4e39b89b-f987-4c33-999b-64b6184a5a59.png" width="900px" />
 
 
 
