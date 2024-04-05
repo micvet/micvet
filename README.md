@@ -41,9 +41,6 @@ I'm a **native Portugueses speaker** and I have proficiency in **English (C1)**,
 🔗 https://www.linkedin.com/in/michelle-c-santos/<br>
 📫 E-mail: michellesantosvet@gmail.com
 
-<br></br>
-
-<img src="https://user-images.githubusercontent.com/86981990/198138936-4e39b89b-f987-4c33-999b-64b6184a5a59.png" width="900px" />
 
 
 
