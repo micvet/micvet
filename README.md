@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/86981990/198135597-1a4a3a25-13c9-48b8-beef-f9d824331a04.png" width="900px" />
+<img src="https://github.com/micvet/micvet/assets/86981990/cfd1dc81-bcc9-468e-85b3-bc499976ee16" width="500px" />
 
 ## :bulb: To check my projects and badges:
 💻 [My projects on GitHub](https://github.com/micvet?tab=repositories)<br>
