@@ -6,15 +6,16 @@
 
 ## :bulb: About me:
 
-I have a degree in veterinary medicine and, a few years ago, I embraced the challenge of transitioning into the technology field. I am a curious person who loves technology, and I am always seeking professional growth, which were the main reasons behind my decision.
+I am a Junior Data Engineer, always looking to learn and apply new knowledge to projects.
 
-In 2021, I began my degree in Analysis and Systems Development at Anhembi Morumbi University, graduating in 2023.
+I have experience with ETL in on-premises and cloud environments and I worked on projects using AWS (S3, Redshift, EC2, Kinesis, etc.), Azure (Blob Storage, Data Factory, Synapse, Cosmos DB, Power BI, etc.), and GCP.
+I have knowledge of tools such as Databricks, Airflow, and Docker, and experience with Python, SQL, Git, and Linux operating systems. Additionally, I have a solid understanding of networking protocols like IPv4, IPv6, DHCP, DNS, and subnetting and network infrastructure architecture.
 
-During this time, I worked as an intern at IBM through the Associates program, where I collaborated with the Software Quality Assurance team. My main responsibilities included conducting functional and non functional tests, preparing acceptance tests for user validation, identifying bugs and discrepancies with documentation, and finally documenting the tests performed.
+My background also includes a position at IBM, where I worked in software quality assurance, performing functional, non-functional, regression testing, etc.
 
-In addition to my academic knowledge, I'm always studing and leaning new features. I have some certifications:  **[Accredited Software Testing Fundamentals Certification (AICS® ASTFC)](https://badgr.com/public/assertions/16xXm4hDQ8uZpNO2_-cYpA?), [Databricks Fundamentals](https://credentials.databricks.com/0b5adace-085c-4e17-b46f-73a47174fff8), [AZ-900](https://www.credly.com/badges/7bcd5455-112b-49c6-ab67-8a07081e7008), [DP-900](https://www.credly.com/badges/2ac5231f-0173-4ac6-997a-f94d0224c8aa), [Scrum Foundation Professional Certification](https://www.credly.com/badges/cdd0128a-662a-46d4-8e0f-d1ef85d968c9)**  and I am currently seeking new certifications. I have a good knowledge of Python, SQL, HTML, Bash scripting and Power BI. I am familiar with Azure Plataform (ADF, Azure Databricks, Azure Test Plans), AWS platforms (S3, EC2, RedShift, Kinesis)  and Linux operating systems. I also work with tools such as Selenium, SoapUi, and Postman. Currently, I am deepening my knowledge in tools like Docker, Azure Data Factory, Databricks, etc.
+I greatly value dynamic and respectful environments with knowledge sharing opportunities, as they lead both personal and project growth.
 
-I'm a **native Portugueses speaker** and I have proficiency in **English (C1)** and intermediate level in **Spanish (B2)**.
+Finally, I’d like to highlight that I have advanced English skills (C2) and intermediate Spanish (B2), so I can collaborate in both national and international teams.
 
 ## :bulb: About my knowledge:
 
