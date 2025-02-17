@@ -8,8 +8,8 @@
 
 I am a Junior Data Engineer, always looking to learn and apply new knowledge to projects.
 
-I have experience with ETL in on-premises and cloud environments and I worked on projects using AWS (S3, Redshift, EC2, Kinesis, etc.), Azure (Blob Storage, Data Factory, Synapse, Cosmos DB, Power BI, etc.), and GCP.
-I have knowledge of tools such as Databricks, Airflow, and Docker, and experience with Python, SQL, Git, and Linux operating systems. Additionally, I have a solid understanding of networking protocols like IPv4, IPv6, DHCP, DNS, and subnetting and network infrastructure architecture.
+I have knowledge with ETL in on-premises and cloud environments using AWS (S3, Redshift, EC2, Kinesis, etc.), Azure (Blob Storage, Data Factory, Synapse, Cosmos DB, Power BI, etc.), and GCP.
+I have knowledge of tools such as Databricks, Apache Airflow and Docker, and experience with Python, SQL, Git, and Linux operating systems. Additionally, I have a solid understanding of networking protocols like IPv4, IPv6, DHCP, DNS, and subnetting and network infrastructure architecture.
 
 My background also includes a position at IBM, where I worked in software quality assurance, performing functional, non-functional, regression testing, etc.
 
